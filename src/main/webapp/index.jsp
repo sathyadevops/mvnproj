@@ -6,7 +6,7 @@
         <title>Hello Java EE 70 Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Hello Java EE Continuous Delivery!</h1>
+        <h1>Hello Java EE Continuous intergration!</h1>
         <h1>Hello New Java EE Continuous Delivery!</h1>
         <h1>SATHYA TECHNOLOGIES</h1>
         <h1> This is a Node code for Jenkins </h1>
