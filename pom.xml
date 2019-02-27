@@ -31,7 +31,7 @@
     </developers>
     <distributionManagement>
         <repository>
-            <id>nexus</id>
+            <id>narayansingh</id>
             <name>Internal Releases</name>
             <url>http://34.73.3.35:8081/repository/maven-releases/</url>
         </repository>
