@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>CM_TOOLS</groupId>
+    <groupId>narayansingh</groupId>
     <artifactId>PUPPET</artifactId>
-    <version>4.5</version>
+    <version>5.3</version>
     <packaging>war</packaging>
     <name>myproj</name>
     <properties>
@@ -33,12 +33,12 @@
         <repository>
             <id>nexus</id>
             <name>Internal Releases</name>
-            <url>http://35.231.46.34:8081/repository/maven-releases/</url>
+            <url>http://34.73.3.35:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://35.231.46.34:8081/repository/maven-snapshots/</url>
+            <url>http://34.73.3.35:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
@@ -51,7 +51,7 @@
 	<version>2.2</version>
 	<configuration>
 		<url>http://localhost:8080/manager/text</url>
-		<server>appserver</server>
+		<server>tomcatserver</server>
 		<path>/myproj</path>
 	</configuration>
 </plugin>
