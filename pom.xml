@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>narayansingh</groupId>
     <artifactId>PUPPET</artifactId>
-    <version>5.4</version>
+    <version>5.6</version>
     <packaging>war</packaging>
     <name>myproj</name>
     <properties>
@@ -36,7 +36,7 @@
             <url>http://34.73.3.35:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
-            <id>nexus</id>
+            <id>narayansingh</id>
             <name>Internal Snapshot Releases</name>
             <url>http://34.73.3.35:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
