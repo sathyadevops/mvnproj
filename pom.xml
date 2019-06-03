@@ -29,6 +29,7 @@
             <email>arun.gupta@gmail.com</email>
         </developer>
     </developers>
+<!--
     <distributionManagement>
         <repository>
             <id>cheruku</id>
@@ -41,6 +42,7 @@
             <url>http://localhost:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
+ -->
     <build>
     	<finalName>myproj</finalName>
         <pluginManagement>
