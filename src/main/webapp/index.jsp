@@ -10,7 +10,7 @@
         <h1>Demo Project from narayansingh</h1>
         <h1>Hello narayansingh</h1>
 
-<table width="100%" bgcolor="black" align="center" border="2">
+<table width="200%" bgcolor="black" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
