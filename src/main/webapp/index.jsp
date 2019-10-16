@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>Demo Project from Devops</h1>
-        <h1>Good day DEVOPS.....</h1>
+        <h1>Good day DEVOP ....</h1>
         <h1>Good day DEVOPS.....</h1>
         <h1>Good day DEVOPS.....</h1>
         <h1>Good day DEVOPS.....</h1>
